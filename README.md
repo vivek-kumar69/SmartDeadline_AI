@@ -141,20 +141,6 @@ npm start
 
 ---
 
-## 📷 Application Preview
-
-Example:
-
-```
-README-assets/
-├── dashboard.png
-├── task-form.png
-├── ai-analysis.png
-└── risk-dashboard.png
-```
-
----
-
 ## 💡 Future Enhancements
 
 * User Authentication
